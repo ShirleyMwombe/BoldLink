@@ -1,4 +1,4 @@
 # BoldLink
 Hello World executable application with name input
-Code: BoldLink.py
-Independent executable application: BoldLink.exe
+BoldLink.py (Python code)
+BoldLink.exe (Independent exe application created from the python file)
