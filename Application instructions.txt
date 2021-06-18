@@ -1,0 +1,7 @@
+Using the application,
+
+1. Click the BoldLink.exe file
+2. Dowload the file, this may give a security warning but the file is safe, I created it from the python file.
+3. Once downloaded, open the file
+4. Input name on the prompted
+5. Hello <input name> will be displayed
